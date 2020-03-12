@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Teo dep trai
-=======
-Hello ban teo dt
->>>>>>> 7246e035487c127b80128f92628c92359c686e6b
-Teo xin trai
+Xin chao ban Teo dep trai
